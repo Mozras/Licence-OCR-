@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14c8ac84-1b9a-473f-8557-ae4305b732a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/ocr_capture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocr-reader-complete.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ocr-reader-complete.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocr-reader-start.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1952">
+              <caret line="272" column="13" selection-start-line="272" selection-start-column="5" selection-end-line="272" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-323">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/GraphicOverlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1496">
+              <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ocr_capture.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-623">
+              <caret line="42" column="29" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/6634204827e96f66f7eb4b8cb0cb1c35/jars/classes.jar!/com/google/android/gms/vision/text/TextBlock.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/6634204827e96f66f7eb4b8cb0cb1c35/jars/classes.jar!/com/google/android/gms/vision/text/Text.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14348">
+              <caret line="37" column="45" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/app/Activity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="1570" column="82" selection-start-line="1570" selection-start-column="82" selection-end-line="1570" selection-end-column="82" />
+              <caret line="1569" column="78" selection-start-line="1569" selection-start-column="78" selection-end-line="1569" selection-end-column="78" />
+              <caret line="1568" column="6" selection-start-line="1568" selection-start-column="6" selection-end-line="1568" selection-end-column="6" />
+              <caret line="1567" column="46" selection-start-line="1567" selection-start-column="46" selection-end-line="1567" selection-end-column="46" />
+              <caret line="1566" column="80" selection-start-line="1566" selection-start-column="80" selection-end-line="1566" selection-end-column="80" />
+              <caret line="1565" column="80" selection-start-line="1565" selection-start-column="80" selection-end-line="1565" selection-end-column="80" />
+              <caret line="1564" column="88" selection-start-line="1564" selection-start-column="88" selection-end-line="1564" selection-end-column="88" />
+              <caret line="1563" column="78" selection-start-line="1563" selection-start-column="78" selection-end-line="1563" selection-end-column="78" />
+              <caret line="1562" column="82" selection-start-line="1562" selection-start-column="82" selection-end-line="1562" selection-end-column="82" />
+              <caret line="1561" column="87" selection-start-line="1561" selection-start-column="87" selection-end-line="1561" selection-end-column="87" />
+              <caret line="1560" column="78" selection-start-line="1560" selection-start-column="78" selection-end-line="1560" selection-end-column="78" />
+              <caret line="1559" column="6" selection-start-line="1559" selection-start-column="6" selection-end-line="1559" selection-end-column="6" />
+              <caret line="1558" column="26" selection-start-line="1558" selection-start-column="26" selection-end-line="1558" selection-end-column="26" />
+              <caret line="1557" column="79" selection-start-line="1557" selection-start-column="79" selection-end-line="1557" selection-end-column="79" />
+              <caret line="1556" column="90" selection-start-line="1556" selection-start-column="90" selection-end-line="1556" selection-end-column="90" />
+              <caret line="1555" column="94" selection-start-line="1555" selection-start-column="94" selection-end-line="1555" selection-end-column="94" />
+              <caret line="1554" column="80" selection-start-line="1554" selection-start-column="80" selection-end-line="1554" selection-end-column="80" />
+              <caret line="1553" column="75" selection-start-line="1553" selection-start-column="75" selection-end-line="1553" selection-end-column="75" />
+              <caret line="1552" column="91" selection-start-line="1552" selection-start-column="91" selection-end-line="1552" selection-end-column="91" />
+              <caret line="1551" column="82" selection-start-line="1551" selection-start-column="82" selection-end-line="1551" selection-end-column="82" />
+              <caret line="1550" column="78" selection-start-line="1550" selection-start-column="78" selection-end-line="1550" selection-end-column="78" />
+              <caret line="1549" column="79" selection-start-line="1549" selection-start-column="79" selection-end-line="1549" selection-end-column="79" />
+              <caret line="1548" column="80" selection-start-line="1548" selection-start-column="80" selection-end-line="1548" selection-end-column="80" />
+              <caret line="1547" column="78" selection-start-line="1547" selection-start-column="78" selection-end-line="1547" selection-end-column="78" />
+              <caret line="1546" column="6" selection-start-line="1546" selection-start-column="6" selection-end-line="1546" selection-end-column="6" />
+              <caret line="1545" column="64" selection-start-line="1545" selection-start-column="64" selection-end-line="1545" selection-end-column="64" />
+              <caret line="1544" column="77" selection-start-line="1544" selection-start-column="77" selection-end-line="1544" selection-end-column="77" />
+              <caret line="1543" column="80" selection-start-line="1543" selection-start-column="80" selection-end-line="1543" selection-end-column="80" />
+              <caret line="1542" column="82" selection-start-line="1542" selection-start-column="82" selection-end-line="1542" selection-end-column="82" />
+              <caret line="1541" column="83" selection-start-line="1541" selection-start-column="83" selection-end-line="1541" selection-end-column="83" />
+              <caret line="1540" column="81" selection-start-line="1540" selection-start-column="81" selection-end-line="1540" selection-end-column="81" />
+              <caret line="1539" column="80" selection-start-line="1539" selection-start-column="80" selection-end-line="1539" selection-end-column="80" />
+              <caret line="1538" column="6" selection-start-line="1538" selection-start-column="6" selection-end-line="1538" selection-end-column="6" />
+              <caret line="1537" column="31" selection-start-line="1537" selection-start-column="31" selection-end-line="1537" selection-end-column="31" />
+              <caret line="1536" column="83" selection-start-line="1536" selection-start-column="83" selection-end-line="1536" selection-end-column="83" />
+              <caret line="1535" column="64" selection-start-line="1535" selection-start-column="64" selection-end-line="1535" selection-end-column="64" />
+              <caret line="1534" column="81" selection-start-line="1534" selection-start-column="81" selection-end-line="1534" selection-end-column="81" />
+              <caret line="1533" column="7" selection-start-line="1533" selection-start-column="7" selection-end-line="1533" selection-end-column="7" />
+              <caret line="1532" selection-start-line="1532" selection-end-line="1532" />
+              <caret line="1531" column="5" selection-start-line="1531" selection-start-column="5" selection-end-line="1531" selection-end-column="5" />
+              <caret line="1530" column="43" selection-start-line="1530" selection-start-column="43" selection-end-line="1530" selection-end-column="43" />
+              <caret line="1529" column="90" selection-start-line="1529" selection-start-column="90" selection-end-line="1529" selection-end-column="90" />
+              <caret line="1528" column="51" selection-start-line="1528" selection-start-column="51" selection-end-line="1528" selection-end-column="51" />
+              <caret line="1527" column="37" selection-start-line="1527" selection-start-column="37" selection-end-line="1527" selection-end-column="37" />
+              <caret line="1526" column="58" selection-start-line="1526" selection-start-column="58" selection-end-line="1526" selection-end-column="58" />
+              <caret line="1525" column="96" selection-start-line="1525" selection-start-column="96" selection-end-line="1525" selection-end-column="96" />
+              <caret line="1524" column="7" selection-start-line="1524" selection-start-column="7" selection-end-line="1524" selection-end-column="7" />
+              <caret line="1523" column="72" selection-start-line="1523" selection-start-column="72" selection-end-line="1523" selection-end-column="72" />
+              <caret line="1522" column="55" selection-start-line="1522" selection-start-column="55" selection-end-line="1522" selection-end-column="55" />
+              <caret line="1521" column="6" selection-start-line="1521" selection-start-column="6" selection-end-line="1521" selection-end-column="6" />
+              <caret line="1520" column="58" selection-start-line="1520" selection-start-column="58" selection-end-line="1520" selection-end-column="58" />
+              <caret line="1519" column="60" selection-start-line="1519" selection-start-column="60" selection-end-line="1519" selection-end-column="60" />
+              <caret line="1518" column="6" selection-start-line="1518" selection-start-column="6" selection-end-line="1518" selection-end-column="6" />
+              <caret line="1517" column="78" selection-start-line="1517" selection-start-column="78" selection-end-line="1517" selection-end-column="78" />
+              <caret line="1516" column="7" selection-start-line="1516" selection-start-column="7" selection-end-line="1516" selection-end-column="7" />
+              <caret line="1515" selection-start-line="1515" selection-end-line="1515" />
+              <caret line="1514" column="5" selection-start-line="1514" selection-start-column="5" selection-end-line="1514" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/ocr_capture.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="252" />
+    <option name="y" value="-21" />
+    <option name="width" value="1292" />
+    <option name="height" value="1086" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ocrreader" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ocrreader" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="camera" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="ocr-reader-complete" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="ocr_capture" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="9885e650304a383744" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1572983379564" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14c8ac84-1b9a-473f-8557-ae4305b732a9" name="Default Changelist" comment="" />
+      <created>1572983374866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572983374866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.16136725" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.32917964" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32606438" />
+      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32917964" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/google/android/gms/samples/vision/ocrreader/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-land/ocr_capture.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/util/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="1570" column="82" selection-start-line="1570" selection-start-column="82" selection-end-line="1570" selection-end-column="82" />
+          <caret line="1569" column="78" selection-start-line="1569" selection-start-column="78" selection-end-line="1569" selection-end-column="78" />
+          <caret line="1568" column="6" selection-start-line="1568" selection-start-column="6" selection-end-line="1568" selection-end-column="6" />
+          <caret line="1567" column="46" selection-start-line="1567" selection-start-column="46" selection-end-line="1567" selection-end-column="46" />
+          <caret line="1566" column="80" selection-start-line="1566" selection-start-column="80" selection-end-line="1566" selection-end-column="80" />
+          <caret line="1565" column="80" selection-start-line="1565" selection-start-column="80" selection-end-line="1565" selection-end-column="80" />
+          <caret line="1564" column="88" selection-start-line="1564" selection-start-column="88" selection-end-line="1564" selection-end-column="88" />
+          <caret line="1563" column="78" selection-start-line="1563" selection-start-column="78" selection-end-line="1563" selection-end-column="78" />
+          <caret line="1562" column="82" selection-start-line="1562" selection-start-column="82" selection-end-line="1562" selection-end-column="82" />
+          <caret line="1561" column="87" selection-start-line="1561" selection-start-column="87" selection-end-line="1561" selection-end-column="87" />
+          <caret line="1560" column="78" selection-start-line="1560" selection-start-column="78" selection-end-line="1560" selection-end-column="78" />
+          <caret line="1559" column="6" selection-start-line="1559" selection-start-column="6" selection-end-line="1559" selection-end-column="6" />
+          <caret line="1558" column="26" selection-start-line="1558" selection-start-column="26" selection-end-line="1558" selection-end-column="26" />
+          <caret line="1557" column="79" selection-start-line="1557" selection-start-column="79" selection-end-line="1557" selection-end-column="79" />
+          <caret line="1556" column="90" selection-start-line="1556" selection-start-column="90" selection-end-line="1556" selection-end-column="90" />
+          <caret line="1555" column="94" selection-start-line="1555" selection-start-column="94" selection-end-line="1555" selection-end-column="94" />
+          <caret line="1554" column="80" selection-start-line="1554" selection-start-column="80" selection-end-line="1554" selection-end-column="80" />
+          <caret line="1553" column="75" selection-start-line="1553" selection-start-column="75" selection-end-line="1553" selection-end-column="75" />
+          <caret line="1552" column="91" selection-start-line="1552" selection-start-column="91" selection-end-line="1552" selection-end-column="91" />
+          <caret line="1551" column="82" selection-start-line="1551" selection-start-column="82" selection-end-line="1551" selection-end-column="82" />
+          <caret line="1550" column="78" selection-start-line="1550" selection-start-column="78" selection-end-line="1550" selection-end-column="78" />
+          <caret line="1549" column="79" selection-start-line="1549" selection-start-column="79" selection-end-line="1549" selection-end-column="79" />
+          <caret line="1548" column="80" selection-start-line="1548" selection-start-column="80" selection-end-line="1548" selection-end-column="80" />
+          <caret line="1547" column="78" selection-start-line="1547" selection-start-column="78" selection-end-line="1547" selection-end-column="78" />
+          <caret line="1546" column="6" selection-start-line="1546" selection-start-column="6" selection-end-line="1546" selection-end-column="6" />
+          <caret line="1545" column="64" selection-start-line="1545" selection-start-column="64" selection-end-line="1545" selection-end-column="64" />
+          <caret line="1544" column="77" selection-start-line="1544" selection-start-column="77" selection-end-line="1544" selection-end-column="77" />
+          <caret line="1543" column="80" selection-start-line="1543" selection-start-column="80" selection-end-line="1543" selection-end-column="80" />
+          <caret line="1542" column="82" selection-start-line="1542" selection-start-column="82" selection-end-line="1542" selection-end-column="82" />
+          <caret line="1541" column="83" selection-start-line="1541" selection-start-column="83" selection-end-line="1541" selection-end-column="83" />
+          <caret line="1540" column="81" selection-start-line="1540" selection-start-column="81" selection-end-line="1540" selection-end-column="81" />
+          <caret line="1539" column="80" selection-start-line="1539" selection-start-column="80" selection-end-line="1539" selection-end-column="80" />
+          <caret line="1538" column="6" selection-start-line="1538" selection-start-column="6" selection-end-line="1538" selection-end-column="6" />
+          <caret line="1537" column="31" selection-start-line="1537" selection-start-column="31" selection-end-line="1537" selection-end-column="31" />
+          <caret line="1536" column="83" selection-start-line="1536" selection-start-column="83" selection-end-line="1536" selection-end-column="83" />
+          <caret line="1535" column="64" selection-start-line="1535" selection-start-column="64" selection-end-line="1535" selection-end-column="64" />
+          <caret line="1534" column="81" selection-start-line="1534" selection-start-column="81" selection-end-line="1534" selection-end-column="81" />
+          <caret line="1533" column="7" selection-start-line="1533" selection-start-column="7" selection-end-line="1533" selection-end-column="7" />
+          <caret line="1532" selection-start-line="1532" selection-end-line="1532" />
+          <caret line="1531" column="5" selection-start-line="1531" selection-start-column="5" selection-end-line="1531" selection-end-column="5" />
+          <caret line="1530" column="43" selection-start-line="1530" selection-start-column="43" selection-end-line="1530" selection-end-column="43" />
+          <caret line="1529" column="90" selection-start-line="1529" selection-start-column="90" selection-end-line="1529" selection-end-column="90" />
+          <caret line="1528" column="51" selection-start-line="1528" selection-start-column="51" selection-end-line="1528" selection-end-column="51" />
+          <caret line="1527" column="37" selection-start-line="1527" selection-start-column="37" selection-end-line="1527" selection-end-column="37" />
+          <caret line="1526" column="58" selection-start-line="1526" selection-start-column="58" selection-end-line="1526" selection-end-column="58" />
+          <caret line="1525" column="96" selection-start-line="1525" selection-start-column="96" selection-end-line="1525" selection-end-column="96" />
+          <caret line="1524" column="7" selection-start-line="1524" selection-start-column="7" selection-end-line="1524" selection-end-column="7" />
+          <caret line="1523" column="72" selection-start-line="1523" selection-start-column="72" selection-end-line="1523" selection-end-column="72" />
+          <caret line="1522" column="55" selection-start-line="1522" selection-start-column="55" selection-end-line="1522" selection-end-column="55" />
+          <caret line="1521" column="6" selection-start-line="1521" selection-start-column="6" selection-end-line="1521" selection-end-column="6" />
+          <caret line="1520" column="58" selection-start-line="1520" selection-start-column="58" selection-end-line="1520" selection-end-column="58" />
+          <caret line="1519" column="60" selection-start-line="1519" selection-start-column="60" selection-end-line="1519" selection-end-column="60" />
+          <caret line="1518" column="6" selection-start-line="1518" selection-start-column="6" selection-end-line="1518" selection-end-column="6" />
+          <caret line="1517" column="78" selection-start-line="1517" selection-start-column="78" selection-end-line="1517" selection-end-column="78" />
+          <caret line="1516" column="7" selection-start-line="1516" selection-start-column="7" selection-end-line="1516" selection-end-column="7" />
+          <caret line="1515" selection-start-line="1515" selection-end-line="1515" />
+          <caret line="1514" column="5" selection-start-line="1514" selection-start-column="5" selection-end-line="1514" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/ocr_capture.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14348">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/ui/camera/GraphicOverlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1496">
+          <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/6634204827e96f66f7eb4b8cb0cb1c35/jars/classes.jar!/com/google/android/gms/vision/text/TextBlock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.0.aar/6634204827e96f66f7eb4b8cb0cb1c35/jars/classes.jar!/com/google/android/gms/vision/text/Text.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1952">
+          <caret line="272" column="13" selection-start-line="272" selection-start-column="5" selection-end-line="272" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
